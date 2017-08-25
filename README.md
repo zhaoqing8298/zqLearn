@@ -1,0 +1,3 @@
+# zqLearn
+learning trials
+some personal simple scripts for file-backup, etc...
